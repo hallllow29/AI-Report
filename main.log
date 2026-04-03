@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.3)  3 APR 2026 20:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.3)  3 APR 2026 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -677,7 +677,7 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@totallowerbox=\box92
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 55.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 94.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 96.
  (c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -687,33 +687,33 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
 Package babel Info: 'portuguese' activates 'portuges' shorthands.
-(babel)             Reported on input line 94.
-LaTeX Info: Redefining \microtypecontext on input line 94.
-Package microtype Info: Applying patch `item' on input line 94.
-Package microtype Info: Applying patch `toc' on input line 94.
-Package microtype Info: Applying patch `eqnum' on input line 94.
-Package microtype Info: Applying patch `footnote' on input line 94.
-Package microtype Info: Applying patch `verbatim' on input line 94.
-LaTeX Info: Redefining \microtypesetup on input line 94.
+(babel)             Reported on input line 96.
+LaTeX Info: Redefining \microtypecontext on input line 96.
+Package microtype Info: Applying patch `item' on input line 96.
+Package microtype Info: Applying patch `toc' on input line 96.
+Package microtype Info: Applying patch `eqnum' on input line 96.
+Package microtype Info: Applying patch `footnote' on input line 96.
+Package microtype Info: Applying patch `verbatim' on input line 96.
+LaTeX Info: Redefining \microtypesetup on input line 96.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -784,32 +784,32 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 94.
+Package hyperref Info: Link coloring ON on input line 96.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 111.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 113.
  (c:/texlive/2026/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 111.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 113.
  (c:/texlive/2026/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 111.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 113.
  (c:/texlive/2026/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 111.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 113.
  (c:/texlive/2026/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 111.
+(Font)              <12> on input line 113.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 111.
+(Font)              <8> on input line 113.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 111.
+(Font)              <6> on input line 113.
  [1
 
 {c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
@@ -821,12 +821,12 @@ No file main.toc.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.132 \newpage
+l.134 \newpage
                [1
 
 ]
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 142.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 144.
 (c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -834,18 +834,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (10.8249pt too wide) in paragraph at lines 176--179
-[]\T1/lmr/m/n/12 (-20) Outro achado par-ti-cu-lar-mente grave foi a exis-ten-cia do fi-cheiro \T1/lmtt/m/n/12 HealthIT_passwords.xlsx
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 174.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (10.8249pt too wide) in paragraph at lines 178--181
+[]\T1/lmr/m/n/12 (-20) Outro achado par-ti-cu-lar-mente grave foi a exis-tên-cia do fi-cheiro \T1/lmtt/m/n/12 HealthIT_passwords.xlsx
  []
 
 [2
 
-]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 199.
- (c:/texlive/2026/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+{c:/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.99998pt, for example:
@@ -853,184 +852,179 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
 
-[3{c:/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+[3]
 Cap\'{\i }tulo 2.
 [4
 
 ]
 Cap\'{\i }tulo 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-[]|\T1/lmr/bx/n/10.95 (+20) Informacao
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]|\T1/lmr/bx/n/10.95 (+20) Informação
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 299--299
+Underfull \hbox (badness 4048) in paragraph at lines 301--301
 []|\T1/lmr/m/n/12 (+20) Aloja a BD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) de pa-ci-en-tes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) com-pro-misso
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/lmr/m/n/12 (+20) im-plica vi-o-
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\T1/lmr/m/n/12 (+20) im-plica uma
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/lmr/m/n/12 (+20) la-cao le-gal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) ime-di-ata e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/lmr/m/n/12 (+20) perda do
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\T1/lmr/m/n/12 (+20) a perda do
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 299--299
+Underfull \hbox (badness 3271) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) con-trato hos-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []|\T1/lmr/m/n/12 (+20) Credenciais
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 299--299
+Underfull \hbox (badness 2799) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) AD, in-for-ma-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/lmr/m/n/12 (+1) do-cu-men-ta-cao
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\T1/lmr/m/n/12 (+1) do-cu-men-ta-ção
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []|\T1/lmr/m/n/12 (+20) Controlador
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) um com-pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) misso to-tal
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 299--299
+Underfull \hbox (badness 1303) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) a toda a in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) fra-es-tru-tura.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) cli-en-tes com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []|\T1/lmr/m/n/12 (+20) Credenciais
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) em ca-che,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/lmr/m/n/12 (+20) ses-soes AD,
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\T1/lmr/m/n/12 (+20) ses-sões AD,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) fi-chei-ros ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []|\T1/lmr/m/n/12 (+20) Ponto de
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 299--299
+Underfull \hbox (badness 3439) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) en-trada para
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) mo-vi-mento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) acesso au-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) ten-ti-cado ao
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/lmr/m/n/12 (+20) do-mi-nio e
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\T1/lmr/m/n/12 (+20) do-mí-nio e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) a par-ti-lhas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-[]|\T1/lmr/m/n/12 (+20) Maquina
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]|\T1/lmr/m/n/12 (+20) Máquina
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) do au-di-tor,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) uti-li-zada ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) clu-si-va-mente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) para tes-tes.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
 \T1/lmr/m/n/12 (+20) da-dos da
  []
 
@@ -1066,11 +1060,11 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 ) (c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 386.
-<images/scan_inicial.png, id=82, 836.6038pt x 258.4438pt>
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 388.
+<images/scan_inicial.png, id=83, 836.6038pt x 258.4438pt>
 File: images/scan_inicial.png Graphic file (type png)
 <use images/scan_inicial.png>
-Package pdftex.def Info: images/scan_inicial.png  used on input line 392.
+Package pdftex.def Info: images/scan_inicial.png  used on input line 394.
 (pdftex.def)             Requested size: 441.01773pt x 136.2371pt.
  [9
 
@@ -1078,7 +1072,7 @@ Package pdftex.def Info: images/scan_inicial.png  used on input line 392.
 <images/windows_scan.png, id=95, 1042.4162pt x 477.61043pt>
 File: images/windows_scan.png Graphic file (type png)
 <use images/windows_scan.png>
-Package pdftex.def Info: images/windows_scan.png  used on input line 411.
+Package pdftex.def Info: images/windows_scan.png  used on input line 413.
 (pdftex.def)             Requested size: 441.01773pt x 202.05984pt.
 
 
@@ -1092,7 +1086,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/smblcient_enum.png, id=106, 743.12413pt x 293.00772pt>
 File: images/smblcient_enum.png Graphic file (type png)
 <use images/smblcient_enum.png>
-Package pdftex.def Info: images/smblcient_enum.png  used on input line 455.
+Package pdftex.def Info: images/smblcient_enum.png  used on input line 457.
 (pdftex.def)             Requested size: 441.01773pt x 173.89243pt.
 
 
@@ -1106,12 +1100,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/smbclient_finance.png, id=116, 1341.70827pt x 293.79326pt>
 File: images/smbclient_finance.png Graphic file (type png)
 <use images/smbclient_finance.png>
-Package pdftex.def Info: images/smbclient_finance.png  used on input line 498.
+Package pdftex.def Info: images/smbclient_finance.png  used on input line 500.
 (pdftex.def)             Requested size: 441.01773pt x 96.56653pt.
 <images/healthIt_dados_finance.png, id=117, 1146.89348pt x 644.14565pt>
 File: images/healthIt_dados_finance.png Graphic file (type png)
 <use images/healthIt_dados_finance.png>
-Package pdftex.def Info: images/healthIt_dados_finance.png  used on input line 511.
+Package pdftex.def Info: images/healthIt_dados_finance.png  used on input line 513.
 (pdftex.def)             Requested size: 441.01773pt x 247.69705pt.
 
 
@@ -1133,7 +1127,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/HealthIT_passwords.png, id=138, 854.67131pt x 179.10391pt>
 File: images/HealthIT_passwords.png Graphic file (type png)
 <use images/HealthIT_passwords.png>
-Package pdftex.def Info: images/HealthIT_passwords.png  used on input line 529.
+Package pdftex.def Info: images/HealthIT_passwords.png  used on input line 531.
 (pdftex.def)             Requested size: 441.01773pt x 92.41855pt.
 
 
@@ -1147,12 +1141,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/utilizadores_dominio.png, id=149, 1314.99979pt x 509.81772pt>
 File: images/utilizadores_dominio.png Graphic file (type png)
 <use images/utilizadores_dominio.png>
-Package pdftex.def Info: images/utilizadores_dominio.png  used on input line 569.
+Package pdftex.def Info: images/utilizadores_dominio.png  used on input line 571.
 (pdftex.def)             Requested size: 352.81552pt x 136.78134pt.
 <images/bloodhound_joao_admin.png, id=150, 1390.41196pt x 437.54771pt>
 File: images/bloodhound_joao_admin.png Graphic file (type png)
 <use images/bloodhound_joao_admin.png>
-Package pdftex.def Info: images/bloodhound_joao_admin.png  used on input line 578.
+Package pdftex.def Info: images/bloodhound_joao_admin.png  used on input line 580.
 (pdftex.def)             Requested size: 441.01773pt x 138.78297pt.
 
 
@@ -1166,12 +1160,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/smbpasswd_adminit.png, id=161, 456.40076pt x 119.4026pt>
 File: images/smbpasswd_adminit.png Graphic file (type png)
 <use images/smbpasswd_adminit.png>
-Package pdftex.def Info: images/smbpasswd_adminit.png  used on input line 630.
+Package pdftex.def Info: images/smbpasswd_adminit.png  used on input line 632.
 (pdftex.def)             Requested size: 441.01773pt x 115.3831pt.
 <images/enum4linux_groups.png, id=162, 1365.1pt x 439.6425pt>
 File: images/enum4linux_groups.png Graphic file (type png)
 <use images/enum4linux_groups.png>
-Package pdftex.def Info: images/enum4linux_groups.png  used on input line 646.
+Package pdftex.def Info: images/enum4linux_groups.png  used on input line 648.
 (pdftex.def)             Requested size: 441.01773pt x 142.03015pt.
 
 
@@ -1185,7 +1179,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/enum4linux_policy.png, id=182, 653.44125pt x 707.64375pt>
 File: images/enum4linux_policy.png Graphic file (type png)
 <use images/enum4linux_policy.png>
-Package pdftex.def Info: images/enum4linux_policy.png  used on input line 653.
+Package pdftex.def Info: images/enum4linux_policy.png  used on input line 655.
 (pdftex.def)             Requested size: 441.01773pt x 477.59573pt.
 
 
@@ -1207,7 +1201,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/enum4linux_users.png, id=194, 954.56625pt x 395.4775pt>
 File: images/enum4linux_users.png Graphic file (type png)
 <use images/enum4linux_users.png>
-Package pdftex.def Info: images/enum4linux_users.png  used on input line 681.
+Package pdftex.def Info: images/enum4linux_users.png  used on input line 683.
 (pdftex.def)             Requested size: 441.01773pt x 182.71237pt.
 
 
@@ -1221,12 +1215,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/Nessus_windows_server.png, id=201, 1440.88312pt x 606.01407pt>
 File: images/Nessus_windows_server.png Graphic file (type png)
 <use images/Nessus_windows_server.png>
-Package pdftex.def Info: images/Nessus_windows_server.png  used on input line 694.
+Package pdftex.def Info: images/Nessus_windows_server.png  used on input line 696.
 (pdftex.def)             Requested size: 441.01773pt x 185.48593pt.
 <images/win_server_medium_streenght.png, id=203, 1318.9275pt x 554.07pt>
 File: images/win_server_medium_streenght.png Graphic file (type png)
 <use images/win_server_medium_streenght.png>
-Package pdftex.def Info: images/win_server_medium_streenght.png  used on input line 730.
+Package pdftex.def Info: images/win_server_medium_streenght.png  used on input line 732.
 (pdftex.def)             Requested size: 441.01773pt x 185.27008pt.
 
 
@@ -1240,12 +1234,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/smb_nessus.png, id=212, 1304.62407pt x 536.0025pt>
 File: images/smb_nessus.png Graphic file (type png)
 <use images/smb_nessus.png>
-Package pdftex.def Info: images/smb_nessus.png  used on input line 737.
+Package pdftex.def Info: images/smb_nessus.png  used on input line 739.
 (pdftex.def)             Requested size: 441.01773pt x 181.19156pt.
 <images/Win_Server_Terminal_Service.png, id=213, 1301.61281pt x 554.07pt>
 File: images/Win_Server_Terminal_Service.png Graphic file (type png)
 <use images/Win_Server_Terminal_Service.png>
-Package pdftex.def Info: images/Win_Server_Terminal_Service.png  used on input line 744.
+Package pdftex.def Info: images/Win_Server_Terminal_Service.png  used on input line 746.
 (pdftex.def)             Requested size: 441.01773pt x 187.73032pt.
 
 
@@ -1267,12 +1261,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/metasploit_smb_shares.png, id=228, 1424.32124pt x 393.72093pt>
 File: images/metasploit_smb_shares.png Graphic file (type png)
 <use images/metasploit_smb_shares.png>
-Package pdftex.def Info: images/metasploit_smb_shares.png  used on input line 781.
+Package pdftex.def Info: images/metasploit_smb_shares.png  used on input line 783.
 (pdftex.def)             Requested size: 441.01773pt x 121.90804pt.
 <images/metasploit_enumusers.png, id=229, 941.01563pt x 250.68657pt>
 File: images/metasploit_enumusers.png Graphic file (type png)
 <use images/metasploit_enumusers.png>
-Package pdftex.def Info: images/metasploit_enumusers.png  used on input line 804.
+Package pdftex.def Info: images/metasploit_enumusers.png  used on input line 806.
 (pdftex.def)             Requested size: 441.01773pt x 117.48608pt.
 
 
@@ -1283,8 +1277,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
 
 [23 <./images/metasploit_smb_shares.png>]
-Overfull \hbox (2.99203pt too wide) in paragraph at lines 814--816
-[]\T1/lmr/m/n/12 (-20) Lista com-pleta de uti-li-za-do-res enu-me-rada sem pri-vi-le-gios: \T1/lmtt/m/n/12 Administrator, Guest,
+Overfull \hbox (2.99203pt too wide) in paragraph at lines 816--818
+[]\T1/lmr/m/n/12 (-20) Lista com-pleta de uti-li-za-do-res enu-me-rada sem pri-vi-lé-gios: \T1/lmtt/m/n/12 Administrator, Guest,
  []
 
 
@@ -1306,12 +1300,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/ubuntu_scan.png, id=264, 1134.2375pt x 731.73375pt>
 File: images/ubuntu_scan.png Graphic file (type png)
 <use images/ubuntu_scan.png>
-Package pdftex.def Info: images/ubuntu_scan.png  used on input line 873.
+Package pdftex.def Info: images/ubuntu_scan.png  used on input line 875.
 (pdftex.def)             Requested size: 441.01773pt x 284.51527pt.
 <images/webapp_inicial.png, id=265, 438.33327pt x 178.31837pt>
 File: images/webapp_inicial.png Graphic file (type png)
 <use images/webapp_inicial.png>
-Package pdftex.def Info: images/webapp_inicial.png  used on input line 904.
+Package pdftex.def Info: images/webapp_inicial.png  used on input line 906.
 (pdftex.def)             Requested size: 441.01773pt x 179.41716pt.
 
 
@@ -1333,12 +1327,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/sqli.png, id=284, 422.62239pt x 199.52805pt>
 File: images/sqli.png Graphic file (type png)
 <use images/sqli.png>
-Package pdftex.def Info: images/sqli.png  used on input line 921.
+Package pdftex.def Info: images/sqli.png  used on input line 923.
 (pdftex.def)             Requested size: 441.01773pt x 208.22581pt.
 <images/sqlmap_dbs.png, id=285, 1573.88pt x 473.77pt>
 File: images/sqlmap_dbs.png Graphic file (type png)
 <use images/sqlmap_dbs.png>
-Package pdftex.def Info: images/sqlmap_dbs.png  used on input line 943.
+Package pdftex.def Info: images/sqlmap_dbs.png  used on input line 945.
 (pdftex.def)             Requested size: 441.01773pt x 132.74867pt.
 
 
@@ -1352,12 +1346,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/sqlmap_dump.png, id=299, 831.105pt x 279.0425pt>
 File: images/sqlmap_dump.png Graphic file (type png)
 <use images/sqlmap_dump.png>
-Package pdftex.def Info: images/sqlmap_dump.png  used on input line 950.
+Package pdftex.def Info: images/sqlmap_dump.png  used on input line 952.
 (pdftex.def)             Requested size: 441.01773pt x 148.07063pt.
 <images/xss.png, id=300, 1444.39626pt x 660.4675pt>
 File: images/xss.png Graphic file (type png)
 <use images/xss.png>
-Package pdftex.def Info: images/xss.png  used on input line 967.
+Package pdftex.def Info: images/xss.png  used on input line 969.
 (pdftex.def)             Requested size: 441.01773pt x 201.65897pt.
 
 
@@ -1371,8 +1365,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/nuclei_ubuntu.png, id=310, 861.7412pt x 490.96468pt>
 File: images/nuclei_ubuntu.png Graphic file (type png)
 <use images/nuclei_ubuntu.png>
-Package pdftex.def Info: images/nuclei_ubuntu.png  used on input line 984.
+Package pdftex.def Info: images/nuclei_ubuntu.png  used on input line 986.
 (pdftex.def)             Requested size: 441.01773pt x 251.26517pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1009
+[]|\T1/lmr/m/n/12 (+20) CSP, HSTS, X-Frame-
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1393,17 +1391,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/Nessus_ubuntu.png, id=326, 1441.63594pt x 555.57562pt>
 File: images/Nessus_ubuntu.png Graphic file (type png)
 <use images/Nessus_ubuntu.png>
-Package pdftex.def Info: images/Nessus_ubuntu.png  used on input line 1018.
+Package pdftex.def Info: images/Nessus_ubuntu.png  used on input line 1020.
 (pdftex.def)             Requested size: 441.01773pt x 169.95471pt.
 <images/Ubuntu_web_dir.png, id=327, 1315.16344pt x 537.50812pt>
 File: images/Ubuntu_web_dir.png Graphic file (type png)
 <use images/Ubuntu_web_dir.png>
-Package pdftex.def Info: images/Ubuntu_web_dir.png  used on input line 1044.
+Package pdftex.def Info: images/Ubuntu_web_dir.png  used on input line 1046.
 (pdftex.def)             Requested size: 441.01773pt x 180.24062pt.
 <images/Ubuntu_sql_dump.png, id=328, 1316.66907pt x 430.60875pt>
 File: images/Ubuntu_sql_dump.png Graphic file (type png)
 <use images/Ubuntu_sql_dump.png>
-Package pdftex.def Info: images/Ubuntu_sql_dump.png  used on input line 1051.
+Package pdftex.def Info: images/Ubuntu_sql_dump.png  used on input line 1053.
 (pdftex.def)             Requested size: 441.01773pt x 144.23018pt.
 
 
@@ -1417,12 +1415,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/dump_sql_1.png, id=339, 1442.38875pt x 637.63219pt>
 File: images/dump_sql_1.png Graphic file (type png)
 <use images/dump_sql_1.png>
-Package pdftex.def Info: images/dump_sql_1.png  used on input line 1065.
+Package pdftex.def Info: images/dump_sql_1.png  used on input line 1067.
 (pdftex.def)             Requested size: 441.01773pt x 194.95914pt.
 <images/dump_sql_2.png, id=340, 633.11531pt x 456.20438pt>
 File: images/dump_sql_2.png Graphic file (type png)
 <use images/dump_sql_2.png>
-Package pdftex.def Info: images/dump_sql_2.png  used on input line 1072.
+Package pdftex.def Info: images/dump_sql_2.png  used on input line 1074.
 (pdftex.def)             Requested size: 441.01773pt x 317.78854pt.
 
 
@@ -1436,7 +1434,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/Ubuntu_clickjacking.png, id=352, 1321.18594pt x 452.4403pt>
 File: images/Ubuntu_clickjacking.png Graphic file (type png)
 <use images/Ubuntu_clickjacking.png>
-Package pdftex.def Info: images/Ubuntu_clickjacking.png  used on input line 1088.
+Package pdftex.def Info: images/Ubuntu_clickjacking.png  used on input line 1090.
 (pdftex.def)             Requested size: 441.01773pt x 151.02478pt.
 
 
@@ -1458,7 +1456,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/metasploit_version.png, id=365, 1108.14pt x 137.7647pt>
 File: images/metasploit_version.png Graphic file (type png)
 <use images/metasploit_version.png>
-Package pdftex.def Info: images/metasploit_version.png  used on input line 1108.
+Package pdftex.def Info: images/metasploit_version.png  used on input line 1110.
 (pdftex.def)             Requested size: 441.01773pt x 54.82741pt.
 
 
@@ -1480,12 +1478,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/win10_scan.png, id=384, 765.90489pt x 295.36435pt>
 File: images/win10_scan.png Graphic file (type png)
 <use images/win10_scan.png>
-Package pdftex.def Info: images/win10_scan.png  used on input line 1169.
+Package pdftex.def Info: images/win10_scan.png  used on input line 1171.
 (pdftex.def)             Requested size: 441.01773pt x 170.07654pt.
 <images/labtest_user.png, id=385, 482.3237pt x 348.78131pt>
 File: images/labtest_user.png Graphic file (type png)
 <use images/labtest_user.png>
-Package pdftex.def Info: images/labtest_user.png  used on input line 1196.
+Package pdftex.def Info: images/labtest_user.png  used on input line 1198.
 (pdftex.def)             Requested size: 441.01773pt x 318.91357pt.
 
 
@@ -1499,7 +1497,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/whoami_adminit.png, id=397, 792.61337pt x 542.81055pt>
 File: images/whoami_adminit.png Graphic file (type png)
 <use images/whoami_adminit.png>
-Package pdftex.def Info: images/whoami_adminit.png  used on input line 1211.
+Package pdftex.def Info: images/whoami_adminit.png  used on input line 1213.
 (pdftex.def)             Requested size: 441.01773pt x 302.02542pt.
 
 
@@ -1529,12 +1527,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/wireshark_http.png, id=416, 1270.7475pt x 758.835pt>
 File: images/wireshark_http.png Graphic file (type png)
 <use images/wireshark_http.png>
-Package pdftex.def Info: images/wireshark_http.png  used on input line 1254.
+Package pdftex.def Info: images/wireshark_http.png  used on input line 1256.
 (pdftex.def)             Requested size: 441.01773pt x 263.36151pt.
 <images/wireshark_smb.png, id=417, 1573.88pt x 699.61375pt>
 File: images/wireshark_smb.png Graphic file (type png)
 <use images/wireshark_smb.png>
-Package pdftex.def Info: images/wireshark_smb.png  used on input line 1266.
+Package pdftex.def Info: images/wireshark_smb.png  used on input line 1268.
 (pdftex.def)             Requested size: 441.01773pt x 196.02928pt.
 
 
@@ -1555,12 +1553,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [43]
 Cap\'{\i }tulo 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 1297.
+(Font)              <14.4> on input line 1291.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 1291.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 1291.
 
-LaTeX Warning: Reference `fig:smbclient_enum' on page 44 undefined on input line 1339.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1291.
 
 
-LaTeX Warning: Reference `fig:metasploit_shares' on page 44 undefined on input line 1339.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\times' on input line 1291.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1291.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 1299.
+
+LaTeX Warning: Reference `fig:smbclient_enum' on page 44 undefined on input line 1341.
+
+
+LaTeX Warning: Reference `fig:metasploit_shares' on page 44 undefined on input line 1341.
 
 [44
 
@@ -1574,16 +1590,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [45]
 
-LaTeX Warning: Reference `fig:passwords_xlsx' on page 46 undefined on input line 1376.
+LaTeX Warning: Reference `fig:passwords_xlsx' on page 46 undefined on input line 1378.
 
 
-LaTeX Warning: Reference `fig:sqli' on page 46 undefined on input line 1412.
+LaTeX Warning: Reference `fig:sqli' on page 46 undefined on input line 1414.
 
 
-LaTeX Warning: Reference `fig:sqlmap_dump' on page 46 undefined on input line 1413.
+LaTeX Warning: Reference `fig:sqlmap_dump' on page 46 undefined on input line 1415.
 
 
-LaTeX Warning: Reference `fig:nessus_ubuntu_sql' on page 46 undefined on input line 1414.
+LaTeX Warning: Reference `fig:nessus_ubuntu_sql' on page 46 undefined on input line 1416.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1594,7 +1610,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [46]
 
-LaTeX Warning: Reference `fig:dados_financeiros' on page 47 undefined on input line 1450.
+LaTeX Warning: Reference `fig:dados_financeiros' on page 47 undefined on input line 1452.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1605,13 +1621,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [47]
 
-LaTeX Warning: Reference `fig:enum4linux_policy' on page 48 undefined on input line 1485.
+LaTeX Warning: Reference `fig:enum4linux_policy' on page 48 undefined on input line 1487.
 
 
-LaTeX Warning: Reference `fig:metasploit_enumusers' on page 48 undefined on input line 1485.
+LaTeX Warning: Reference `fig:metasploit_enumusers' on page 48 undefined on input line 1487.
 
 
-LaTeX Warning: Reference `fig:xss' on page 48 undefined on input line 1517.
+LaTeX Warning: Reference `fig:xss' on page 48 undefined on input line 1519.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1622,7 +1638,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [48]
 
-LaTeX Warning: Reference `fig:wireshark_http' on page 49 undefined on input line 1550.
+LaTeX Warning: Reference `fig:wireshark_http' on page 49 undefined on input line 1552.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1633,15 +1649,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [49]
 
-LaTeX Warning: Reference `fig:labtest' on page 50 undefined on input line 1582.
+LaTeX Warning: Reference `fig:labtest' on page 50 undefined on input line 1584.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1581--1583
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1585
 []\T1/lmtt/m/n/12 net user Labtest \T1/lmr/m/n/12 (+20) re-ve-lou \T1/lmtt/m/n/12 Password required: No \T1/lmr/m/n/12 (+20) e \T1/lmtt/m/n/12 Local Group
  []
 
 
-LaTeX Warning: Reference `fig:scan_inicial' on page 50 undefined on input line 1614.
+LaTeX Warning: Reference `fig:scan_inicial' on page 50 undefined on input line 1616.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1661,7 +1677,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [51]
 Cap\'{\i }tulo 7.
 
-Underfull \hbox (badness 1205) in paragraph at lines 1692--1692
+Underfull \hbox (badness 1205) in paragraph at lines 1694--1694
 []|\T1/lmr/m/n/12 (+20) Ficheiro de pas-swords em
  []
 
@@ -1686,12 +1702,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [54]
 Cap\'{\i }tulo 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
+Underfull \hbox (badness 10000) in paragraph at lines 1781--1781
 []|\T1/lmr/m/n/12 (+20) Eliminar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
+Underfull \hbox (badness 10000) in paragraph at lines 1781--1781
 \T1/lmtt/m/n/12 HealthIT_passwords.xlsx \T1/lmr/m/n/12 (+20) da
  []
 
@@ -1699,45 +1715,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
 
 ]
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1826: LaTeX Error: Not allowed in LR mode.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1828: LaTeX Error: Not allowed in LR mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1826   {Ubuntu Server 22.04\\{
+l.1828   {Ubuntu Server 22.04\\{
                                 \footnotesize\normalfont 192.168.10.30}\\{\f...
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1826: LaTeX Error: Not allowed in LR mode.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1828: LaTeX Error: Not allowed in LR mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1826 ...ootnotesize\normalfont 192.168.10.30}\\{
+l.1828 ...ootnotesize\normalfont 192.168.10.30}\\{
                                                   \footnotesize\normalfont W...
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: LaTeX Error: Not allowed in LR mode.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: LaTeX Error: Not allowed in LR mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Missing } inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
 <inserted text> 
                 }
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1746,23 +1762,23 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
 
 See the tikz package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
 Pretend that you're Hercule Poirot: Examine all clues,
 and deduce the truth by order and method.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1770,10 +1786,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Undefined control sequence.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Undefined control sequence.
 <recently read> \tikz@expand@last@token@ 
                                          
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1781,19 +1797,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Missing number, treated as zero.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing number, treated as zero.
 <to be read again> 
                    \let 
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Illegal unit of measure (pt inserted).
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \let 
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1811,10 +1827,10 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Extra }, or forgotten \endgroup.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Extra }, or forgotten \endgroup.
 \tikz@temp ...lor=TextGray]{SQL apenas\\localhost}
                                                   
-l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+l.1834 ...r=TextGray]{SQL apenas\\localhost} (fw2)
                                                   ;
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1830,10 +1846,10 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no p in font nullfont!
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Undefined control sequence.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Undefined control sequence.
 \pgfutil@next ...flinewidth =\tikzscope@linewidth 
                                                   \tikz@path@do@at@end 
-l.1832 ...=TextGray]{SQL apenas\\localhost} (fw2);
+l.1834 ...=TextGray]{SQL apenas\\localhost} (fw2);
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1841,19 +1857,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1833: Missing number, treated as zero.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1835: Missing number, treated as zero.
 <to be read again> 
                    \let 
-l.1833 \node
+l.1835 \node
             [box,fill=ServerColor,draw=ServerColor!70!black] (winserver) at ...
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1833: Illegal unit of measure (pt inserted).
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1835: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \let 
-l.1833 \node
+l.1835 \node
             [box,fill=ServerColor,draw=ServerColor!70!black] (winserver) at ...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1863,21 +1879,21 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: LaTeX Error: Not allowed in LR mode.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: LaTeX Error: Not allowed in LR mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing } inserted.
 <inserted text> 
                 }
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1886,20 +1902,20 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
 
 See the tikz package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 (That was another \errmessage.)
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1907,10 +1923,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Undefined control sequence.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Undefined control sequence.
 <recently read> \tikz@expand@last@token@ 
                                          
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1918,19 +1934,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing number, treated as zero.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing number, treated as zero.
 <to be read again> 
                    \let 
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Illegal unit of measure (pt inserted).
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \let 
-l.1834   {Windows Server 2019\\{
+l.1836   {Windows Server 2019\\{
                                 \footnotesize\normalfont 192.168.20.20}\\{\f...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1953,21 +1969,21 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: LaTeX Error: Not allowed in LR mode.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: LaTeX Error: Not allowed in LR mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1975,10 +1991,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1986,10 +2002,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1997,10 +2013,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing } inserted.
 <inserted text> 
                 }
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2008,10 +2024,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2019,10 +2035,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2030,10 +2046,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2041,10 +2057,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Missing } inserted.
 <inserted text> 
                 }
-l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+l.1836 ...ootnotesize\normalfont 192.168.20.20}\\{
                                                   \footnotesize\normalfont A...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2052,8 +2068,8 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Extra }, or forgotten \endgroup.
-l.1834 ...footnotesize\normalfont AD + Ficheiros}}
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1836: Extra }, or forgotten \endgroup.
+l.1836 ...footnotesize\normalfont AD + Ficheiros}}
                                                   ;
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2061,8 +2077,8 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1835: Undefined control sequence.
-l.1835 \node
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1837: Undefined control sequence.
+l.1837 \node
             [box,fill=UserColor,draw=UserColor!70!black] (win10) at (3.2,-8.0)
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2071,20 +2087,20 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1837: LaTeX Error: Environment scope undefined.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1839: LaTeX Error: Environment scope undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1837 \begin{scope}
+l.1839 \begin{scope}
                     [on background layer]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1838: Undefined control sequence.
-l.1838   \node
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1840: Undefined control sequence.
+l.1840   \node
               [zone,fit=(winserver),label=above:{\footnotesize\color{gray}Zo...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2092,8 +2108,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1839: Undefined control sequence.
-l.1839   \node
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1841: Undefined control sequence.
+l.1841   \node
               [zone,fit=(win10),label=above:{\footnotesize\color{gray}Zona U...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2102,20 +2118,20 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1840: LaTeX Error: \begin{tikzpicture} on input line 1813 ended by \end{scope}.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1842: LaTeX Error: \begin{tikzpicture} on input line 1815 ended by \end{scope}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1840 \end{scope}
+l.1842 \end{scope}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1841: Undefined control sequence.
-l.1841 \draw
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1843: Undefined control sequence.
+l.1843 \draw
             [arrow] (fw2) -- (winserver);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2123,8 +2139,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1842: Undefined control sequence.
-l.1842 \draw
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1844: Undefined control sequence.
+l.1844 \draw
             [arrow] (fw2) -- (win10);
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2132,8 +2148,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1843: Undefined control sequence.
-l.1843 \draw
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1845: Undefined control sequence.
+l.1845 \draw
             [dashed,color=gray,thick] (winserver.east) --
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2141,25 +2157,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1845: Undefined control sequence.
-l.1845 \node
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1847: Undefined control sequence.
+l.1847 \node
             [font=\footnotesize,color=TextGray,align=left] at (6.2,-5.0) {
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
-
-
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1848: Package pgfkeys Error: I do not know the key '/tikz/box' and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1848 ...minimum height=0.5cm,font=\footnotesize]
-                                                  {}; DMZ\\[4pt]
-(That was another \errmessage.)
 
 
 c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1850: Package pgfkeys Error: I do not know the key '/tikz/box' and I am going to ignore it. Perhaps you misspelled it.
@@ -2169,7 +2174,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1850 ...minimum height=0.5cm,font=\footnotesize]
-                                                  {}; Servidores\\[4pt]
+                                                  {}; DMZ\\[4pt]
 (That was another \errmessage.)
 
 
@@ -2180,24 +2185,35 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1852 ...minimum height=0.5cm,font=\footnotesize]
-                                                  {}; Utilizadores\\[4pt]
+                                                  {}; Servidores\\[4pt]
 (That was another \errmessage.)
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1853: Package pgfkeys Error: I do not know the key '/tikz/fw' and I am going to ignore it. Perhaps you misspelled it.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Package pgfkeys Error: I do not know the key '/tikz/box' and I am going to ignore it. Perhaps you misspelled it.
 
 See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1853 ...minimum height=0.5cm,font=\footnotesize]
+l.1854 ...minimum height=0.5cm,font=\footnotesize]
+                                                  {}; Utilizadores\\[4pt]
+(That was another \errmessage.)
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1855: Package pgfkeys Error: I do not know the key '/tikz/fw' and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1855 ...minimum height=0.5cm,font=\footnotesize]
                                                   {}; Firewall};
 (That was another \errmessage.)
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Undefined control sequence.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: Undefined control sequence.
 \endtikzpicture ...r@layerlist@globally \endscope 
                                                   \let \pgf@baseline =\pgf@s...
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2205,10 +2221,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Extra }, or forgotten \endgroup.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: Extra }, or forgotten \endgroup.
 \endpgfpicture ...globally \endgroup \hss \egroup 
                                                   \pgf@restore@layerlist@fro...
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2216,10 +2232,10 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Missing } inserted.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: Missing } inserted.
 <inserted text> 
                 }
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2227,10 +2243,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Infinite glue shrinkage found in a paragraph.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: Infinite glue shrinkage found in a paragraph.
 <argument> ...hskip:D \c_zero_dim \fi: \tex_par:D 
                                                   \hook_use:n {para/after}\@...
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 The paragraph just ended includes some glue that has
 infinite shrinkability, e.g., `\hskip 0pt minus 1fil'.
@@ -2238,41 +2254,41 @@ Such glue doesn't belong there---it allows a paragraph
 of any length to fit on one line. But it's safe to proceed,
 since the offensive shrinkability has been made finite.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Extra \endgroup.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: Extra \endgroup.
 \endtikzpicture ...lobal \endpgfpicture \endgroup 
                                                   
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 Things are pretty mixed up, but I think the worst is over.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: LaTeX Error: \begin{document} ended by \end{tikzpicture}.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: LaTeX Error: \begin{document} ended by \end{tikzpicture}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Extra \endgroup.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1856: Extra \endgroup.
 \end  ...end#1\endcsname \@checkend {#1}\endgroup 
                                                   \UseHook {env/#1/after}\if...
-l.1854 \end{tikzpicture}
+l.1856 \end{tikzpicture}
                         
 Things are pretty mixed up, but I think the worst is over.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1855: Package caption Error: \caption outside float.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Package caption Error: \caption outside float.
 
 See the caption package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1855 \caption
+l.1857 \caption
                {Proposta de arquitetura de rede segmentada}
 If you do not understand this error, please take a closer look
 at the documentation of the `caption' package, especially the
@@ -2280,46 +2296,46 @@ section about errors.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Too many }'s.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1859: Too many }'s.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.1857 \end{figure}
+l.1859 \end{figure}
                    
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Extra \endgroup.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1859: Extra \endgroup.
 \color@endgroup ->\endgraf \@endpefalse \endgroup 
                                                   
-l.1857 \end{figure}
+l.1859 \end{figure}
                    
 Things are pretty mixed up, but I think the worst is over.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Too many }'s.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1859: Too many }'s.
 \color@endbox ->\color@endgroup \egroup 
                                         
-l.1857 \end{figure}
+l.1859 \end{figure}
                    
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: LaTeX Error: \begin{document} ended by \end{figure}.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1859: LaTeX Error: \begin{document} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1857 \end{figure}
+l.1859 \end{figure}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Extra \endgroup.
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1859: Extra \endgroup.
 \end  ...end#1\endcsname \@checkend {#1}\endgroup 
                                                   \UseHook {env/#1/after}\if...
-l.1857 \end{figure}
+l.1859 \end{figure}
                    
 Things are pretty mixed up, but I think the worst is over.
 
@@ -2393,21 +2409,21 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  57EBDA181D30CD44C7055F57AEDD4AA3;12598.
+(rerunfilecheck)             After:  557AF0B65B5A7133857633E510077A84;12833.
  ) 
 Here is how much of TeX's memory you used:
- 33235 strings out of 467349
- 646651 string characters out of 5419863
- 1341770 words of memory out of 5000000
- 61317 multiletter control sequences out of 15000+600000
- 704244 words of font info for 196 fonts, out of 8000000 for 9000
+ 33285 strings out of 467349
+ 647434 string characters out of 5419863
+ 1341782 words of memory out of 5000000
+ 61345 multiletter control sequences out of 15000+600000
+ 716237 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,13n,108p,1236b,1317s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtk10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on main.pdf (64 pages, 7983431 bytes).
+Output written on main.pdf (64 pages, 7992874 bytes).
 PDF statistics:
- 682 PDF objects out of 1000 (max. 8388607)
- 534 compressed objects within 6 object streams
+ 685 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
  283 named destinations out of 1000 (max. 500000)
- 45766 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 53958 words of extra memory for PDF output out of 61914 (max. 10000000)
 

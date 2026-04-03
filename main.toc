@@ -1,77 +1,77 @@
 \babel@toc {portuguese}{}\relax 
-\contentsline {chapter}{\numberline {1}Sumario Executivo}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Sumário Executivo}{2}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Enquadramento}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Ambito}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Restricoes Operacionais}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.1}Âmbito}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Restrições Operacionais}{4}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Arquitetura e Ativos}{5}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Topologia de Rede}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Inventario de Maquinas}{5}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Classificacao de Ativos}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.2}Inventário de Máquinas}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Classificação de Ativos}{6}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Metodologia}{7}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Ferramentas Utilizadas}{8}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Resultados Tecnicos}{9}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Resultados Técnicos}{9}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Reconhecimento Passivo}{9}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Descoberta de Hosts}{9}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Enumeracao de Servicos}{10}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Enumeração de Serviços}{10}{section.5.3}%
 \contentsline {subsection}{\numberline {5.3.1}Windows Server 2019 -- 192.168.50.20}{10}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Enumeracao de Partilhas SMB}{11}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Acesso e Analise da Partilha Finance}{12}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.2}Enumeração de Partilhas SMB}{11}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Acesso e Análise da Partilha Finance}{12}{subsection.5.3.3}%
 \contentsline {subsubsection}{HealthIT\_Dados\_Financeiros\_Clientes\_v2.xlsx}{12}{subsubsection*.12}%
 \contentsline {subsubsection}{HealthIT\_passwords.xlsx}{14}{subsubsection*.14}%
-\contentsline {subsection}{\numberline {5.3.4}Enumeracao do Active Directory -- Bloodhound}{15}{subsection.5.3.4}%
-\contentsline {subsubsection}{Utilizadores do Dominio}{15}{subsubsection*.17}%
-\contentsline {subsubsection}{Permissoes Excessivas sobre a Conta Administrator}{15}{subsubsection*.19}%
-\contentsline {subsection}{\numberline {5.3.5}Tentativa de Escalada de Privilegios}{16}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.4}Enumeração do Active Directory -- BloodHound}{15}{subsection.5.3.4}%
+\contentsline {subsubsection}{Utilizadores do Domínio}{15}{subsubsection*.17}%
+\contentsline {subsubsection}{Permissões Excessivas sobre a Conta Administrator}{15}{subsubsection*.19}%
+\contentsline {subsection}{\numberline {5.3.5}Tentativa de Escalada de Privilégios}{16}{subsection.5.3.5}%
 \contentsline {subsubsection}{Reset de Password do Administrator}{16}{subsubsection*.22}%
-\contentsline {subsubsection}{Alteracao de Password da Conta admin\_it}{16}{subsubsection*.23}%
-\contentsline {subsection}{\numberline {5.3.6}Enumeracao do Dominio -- enum4linux}{16}{subsection.5.3.6}%
-\contentsline {subsection}{\numberline {5.3.7}Analise com Nessus -- Windows Server 2019}{20}{subsection.5.3.7}%
-\contentsline {subsection}{\numberline {5.3.8}Verificacao com Metasploit -- Windows Server 2019}{23}{subsection.5.3.8}%
-\contentsline {subsubsection}{Enumeracao de Partilhas SMB}{23}{subsubsection*.34}%
-\contentsline {subsubsection}{Enumeracao de Utilizadores do Dominio}{23}{subsubsection*.36}%
+\contentsline {subsubsection}{Alteração de Password da Conta admin\_it}{16}{subsubsection*.23}%
+\contentsline {subsection}{\numberline {5.3.6}Enumeração do Domínio -- enum4linux}{16}{subsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.3.7}Análise com Nessus -- Windows Server 2019}{20}{subsection.5.3.7}%
+\contentsline {subsection}{\numberline {5.3.8}Verificação com Metasploit -- Windows Server 2019}{23}{subsection.5.3.8}%
+\contentsline {subsubsection}{Enumeração de Partilhas SMB}{23}{subsubsection*.34}%
+\contentsline {subsubsection}{Enumeração de Utilizadores do Domínio}{23}{subsubsection*.36}%
 \contentsline {subsection}{\numberline {5.3.9}Resumo de Findings -- Windows Server 2019}{25}{subsection.5.3.9}%
 \contentsline {section}{\numberline {5.4}Ubuntu Server 22.04 -- 192.168.50.30}{26}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Enumeracao de Servicos}{26}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Testes a Aplicacao Web}{27}{subsection.5.4.2}%
-\contentsline {subsubsection}{Exposicao da Query SQL}{27}{subsubsection*.41}%
+\contentsline {subsection}{\numberline {5.4.1}Enumeração de Serviços}{26}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Testes à Aplicação Web}{27}{subsection.5.4.2}%
+\contentsline {subsubsection}{Exposição da Query SQL}{27}{subsubsection*.41}%
 \contentsline {subsubsection}{SQL Injection}{28}{subsubsection*.43}%
-\contentsline {subsubsection}{Extracao de Dados via SQLMap}{28}{subsubsection*.45}%
+\contentsline {subsubsection}{Extração de Dados via SQLMap}{28}{subsubsection*.45}%
 \contentsline {subsubsection}{Cross-Site Scripting (XSS)}{29}{subsubsection*.48}%
 \contentsline {subsubsection}{Scan com Nuclei}{30}{subsubsection*.50}%
-\contentsline {subsection}{\numberline {5.4.3}Analise com Nessus -- Ubuntu Server 22.04}{32}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}Verificacao com Metasploit -- Ubuntu Server 22.04}{36}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.3}Análise com Nessus -- Ubuntu Server 22.04}{32}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Verificação com Metasploit -- Ubuntu Server 22.04}{36}{subsection.5.4.4}%
 \contentsline {subsection}{\numberline {5.4.5}Resumo de Findings -- Ubuntu Server 22.04}{36}{subsection.5.4.5}%
 \contentsline {section}{\numberline {5.5}Windows 10 -- 192.168.50.40}{38}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}Enumeracao de Servicos}{38}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.1}Enumeração de Serviços}{38}{subsection.5.5.1}%
 \contentsline {subsection}{\numberline {5.5.2}Acesso com Credenciais Comprometidas}{39}{subsection.5.5.2}%
-\contentsline {subsubsection}{Conta Labtest sem Password Obrigatoria}{39}{subsubsection*.64}%
-\contentsline {subsubsection}{Reutilizacao de Credenciais -- Movimento Lateral}{40}{subsubsection*.66}%
+\contentsline {subsubsection}{Conta Labtest sem Password Obrigatória}{39}{subsubsection*.64}%
+\contentsline {subsubsection}{Reutilização de Credenciais -- Movimento Lateral}{40}{subsubsection*.66}%
 \contentsline {subsection}{\numberline {5.5.3}Resumo de Findings -- Windows 10}{40}{subsection.5.5.3}%
-\contentsline {section}{\numberline {5.6}Analise de Trafego -- Wireshark}{42}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}Trafego HTTP em Claro}{42}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}Trafego SMB -- Autenticacao NTLM}{42}{subsection.5.6.2}%
-\contentsline {chapter}{\numberline {6}Avaliacao de Risco}{44}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Metodologia de Classificacao}{44}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Matriz de Probabilidade x Impacto}{44}{section.6.2}%
+\contentsline {section}{\numberline {5.6}Análise de Tráfego -- Wireshark}{42}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Tráfego HTTP em Claro}{42}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Tráfego SMB -- Autenticação NTLM}{42}{subsection.5.6.2}%
+\contentsline {chapter}{\numberline {6}Avaliação de Risco}{44}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Metodologia de Classificação}{44}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Matriz de Probabilidade $\times $ Impacto}{44}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Findings}{44}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Tabela Resumo de Vulnerabilidades}{51}{section.6.4}%
-\contentsline {chapter}{\numberline {7}Priorizacao de Vulnerabilidades}{52}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Justificacao da Exclusao da VUL-04}{53}{section.7.1}%
+\contentsline {chapter}{\numberline {7}Priorização de Vulnerabilidades}{52}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Justificação da Exclusão da VUL-04}{53}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Risco Residual}{54}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Plano de Mitigacao}{55}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Acoes Adicionais Recomendadas}{56}{section.8.1}%
+\contentsline {chapter}{\numberline {8}Plano de Mitigação}{55}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Ações Adicionais Recomendadas}{56}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Arquitetura de Rede Proposta}{56}{section.8.2}%
-\contentsline {chapter}{\numberline {9}Questoes de Analise}{57}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Qual e o ativo mais critico da empresa? Porque?}{57}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Qual vulnerabilidade representa maior risco real?}{57}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Existe risco sistemico (combinacao de falhas)?}{58}{section.9.3}%
+\contentsline {chapter}{\numberline {9}Questões de Análise}{57}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Qual é o ativo mais crítico da empresa? Porquê?}{57}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Qual a vulnerabilidade que representa maior risco real?}{57}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Existe risco sistémico (combinação de falhas)?}{58}{section.9.3}%
 \contentsline {section}{\numberline {9.4}Como poderia um atacante encadear vulnerabilidades?}{58}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Se a empresa for alvo de ransomware, qual seria o impacto provavel?}{58}{section.9.5}%
+\contentsline {section}{\numberline {9.5}Se a empresa for alvo de ransomware, qual seria o impacto provável?}{58}{section.9.5}%
 \contentsline {section}{\numberline {9.6}Que controlos preventivos e detetivos deveriam existir?}{59}{section.9.6}%
 \contentsline {subsection}{\numberline {9.6.1}Controlos Preventivos}{59}{subsection.9.6.1}%
 \contentsline {subsection}{\numberline {9.6.2}Controlos Detetivos}{60}{subsection.9.6.2}%
-\contentsline {chapter}{\numberline {10}Conclusao}{61}{chapter.10}%
+\contentsline {chapter}{\numberline {10}Conclusão}{61}{chapter.10}%
 \contentsline {chapter}{\numberline {A}Anexos}{62}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Ferramentas e Versoes Utilizadas}{62}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Referencia a Artigos do RGPD Aplicaveis}{63}{section.A.2}%
+\contentsline {section}{\numberline {A.1}Ferramentas e Versões Utilizadas}{62}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Referência a Artigos do RGPD Aplicáveis}{63}{section.A.2}%
 \contentsfinish 
