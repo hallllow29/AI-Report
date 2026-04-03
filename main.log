@@ -1,0 +1,2413 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.3)  3 APR 2026 20:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex
+(c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(c:/texlive/2026/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+) (c:/texlive/2026/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (c:/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (c:/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count284
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen151
+\l@unhyphenated=\language91
+ (c:/texlive/2026/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count285
+ (c:/texlive/2026/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex)
+Package babel Info: Importing font and identification data for portuguese
+(babel)             from babel-pt.ini. Reported on input line 4330.
+ (c:/texlive/2026/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
+Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
+Package babel Info: Making " an active character on input line 132.
+)) (c:/texlive/2026/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+)
+\MT@toks=\toks20
+\MT@tempbox=\box53
+\MT@count=\count287
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen152
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count288
+ (c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks22
+) (c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (c:/texlive/2026/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+ (c:/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box54
+\extrarowheight=\dimen162
+\NC@list=\toks23
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box55
+)
+\everycr=\toks24
+\minrowclearance=\skip54
+\rownum=\count292
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+) (c:/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen165
+\lightrulewidth=\dimen166
+\cmidrulewidth=\dimen167
+\belowrulesep=\dimen168
+\belowbottomsep=\dimen169
+\aboverulesep=\dimen170
+\abovetopsep=\dimen171
+\cmidrulesep=\dimen172
+\cmidrulekern=\dimen173
+\defaultaddspace=\dimen174
+\@cmidla=\count293
+\@cmidlb=\count294
+\@aboverulesep=\dimen175
+\@belowrulesep=\dimen176
+\@thisruleclass=\count295
+\@lastruleclass=\count296
+\@thisrulewidth=\dimen177
+) (c:/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen178
+\TX@old@table=\dimen179
+\TX@old@col=\dimen180
+\TX@target=\dimen181
+\TX@delta=\dimen182
+\TX@cols=\count297
+\TX@ftn=\toks25
+) (c:/texlive/2026/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count298
+\multirow@dima=\skip56
+\bigstrutjot=\dimen183
+) (c:/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count299
+\LTcapwidth=\dimen184
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count300
+\LT@rows=\count301
+\c@LT@tables=\count302
+\c@LT@chunks=\count303
+\LT@p@ftn=\toks26
+) (c:/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip61
+\f@nch@offset@elh=\skip62
+\f@nch@offset@erh=\skip63
+\f@nch@offset@olh=\skip64
+\f@nch@offset@orh=\skip65
+\f@nch@offset@elf=\skip66
+\f@nch@offset@erf=\skip67
+\f@nch@offset@olf=\skip68
+\f@nch@offset@orf=\skip69
+\f@nch@height=\skip70
+\f@nch@footalignment=\skip71
+\f@nch@widthL=\skip72
+\f@nch@widthC=\skip73
+\f@nch@widthR=\skip74
+\@temptokenb=\toks27
+) (c:/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box61
+\beforetitleunit=\skip75
+\aftertitleunit=\skip76
+\ttl@plus=\dimen185
+\ttl@minus=\dimen186
+\ttl@toksa=\toks28
+\titlewidth=\dimen187
+\titlewidthlast=\dimen188
+\titlewidthfirst=\dimen189
+) (c:/texlive/2026/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2025/01/04 v2.17 TOC entries
+\ttl@leftsep=\dimen190
+) (c:/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
+ (c:/texlive/2026/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen191
+\pgfutil@tempdimb=\dimen192
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box62
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2026/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen193
+\pgf@y=\dimen194
+\pgf@xa=\dimen195
+\pgf@ya=\dimen196
+\pgf@xb=\dimen197
+\pgf@yb=\dimen198
+\pgf@xc=\dimen199
+\pgf@yc=\dimen256
+\pgf@xd=\dimen257
+\pgf@yd=\dimen258
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count304
+\c@pgf@countb=\count305
+\c@pgf@countc=\count306
+\c@pgf@countd=\count307
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count308
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (c:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count309
+\pgfsyssoftpath@bigbuffer@items=\count310
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen259
+\pgfmath@count=\count311
+\pgfmath@box=\box63
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count312
+)) (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen260
+\pgf@picmaxx=\dimen261
+\pgf@picminy=\dimen262
+\pgf@picmaxy=\dimen263
+\pgf@pathminx=\dimen264
+\pgf@pathmaxx=\dimen265
+\pgf@pathminy=\dimen266
+\pgf@pathmaxy=\dimen267
+\pgf@xx=\dimen268
+\pgf@xy=\dimen269
+\pgf@yx=\dimen270
+\pgf@yy=\dimen271
+\pgf@zx=\dimen272
+\pgf@zy=\dimen273
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen274
+\pgf@path@lasty=\dimen275
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen276
+\pgf@shorten@start@additional=\dimen277
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count313
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen278
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen279
+\pgf@pt@y=\dimen280
+\pgf@pt@temp=\dimen281
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen282
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen283
+\pgf@sys@shading@range@num=\count314
+\pgf@shadingcount=\count315
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box67
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (c:/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box68
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen284
+\pgf@nodesepend=\dimen285
+) (c:/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (c:/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2026/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen286
+\pgffor@skip=\dimen287
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+)) (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count316
+\pgfplotmarksize=\dimen288
+)
+\tikz@lastx=\dimen289
+\tikz@lasty=\dimen290
+\tikz@lastxsaved=\dimen291
+\tikz@lastysaved=\dimen292
+\tikz@lastmovetox=\dimen293
+\tikz@lastmovetoy=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count317
+\tikznumberofchildren=\count318
+\tikznumberofcurrentchild=\count319
+\tikz@fig@count=\count320
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count321
+\pgfmatrixcurrentcolumn=\count322
+\pgf@matrix@numberofcolumns=\count323
+)
+\tikz@expandcount=\count324
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (c:/texlive/2026/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks41
+\verbatim@line=\toks42
+\verbatim@in@stream=\read4
+) (c:/texlive/2026/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (c:/texlive/2026/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks43
+)
+\tcb@titlebox=\box73
+\tcb@upperbox=\box74
+\tcb@lowerbox=\box75
+\tcb@phantombox=\box76
+\c@tcbbreakpart=\count325
+\c@tcblayer=\count326
+\c@tcolorbox@number=\count327
+\l__tcobox_tmpa_box=\box77
+\l__tcobox_tmpa_dim=\dimen297
+\tcb@temp=\box78
+\tcb@temp=\box79
+\tcb@temp=\box80
+\tcb@temp=\box81
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count328
+\lst@gtempboxa=\box82
+\lst@token=\toks44
+\lst@length=\count329
+\lst@currlwidth=\dimen298
+\lst@column=\count330
+\lst@pos=\count331
+\lst@lostspace=\dimen299
+\lst@width=\dimen300
+\lst@newlines=\count332
+\lst@lineno=\count333
+\lst@maxwidth=\dimen301
+ (c:/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count334
+\lst@skipnumbers=\count335
+\lst@framebox=\box83
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(c:/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip77
+\enit@outerparindent=\dimen302
+\enit@toks=\toks45
+\enit@inbox=\box84
+\enit@count@id=\count336
+\enitdp@description=\count337
+) (c:/texlive/2026/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (c:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))) (c:/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count338
+\float@exts=\toks46
+\float@box=\box85
+\@float@everytoks=\toks47
+\@floatcapt=\box86
+) (c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen303
+\captionmargin=\dimen304
+\caption@leftmargin=\dimen305
+\caption@rightmargin=\dimen306
+\caption@width=\dimen307
+\caption@indent=\dimen308
+\caption@parindent=\dimen309
+\caption@hangindent=\dimen310
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count339
+\c@continuedfloat=\count340
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (c:/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)) (c:/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+ (c:/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (c:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (c:/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+ (c:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count341
+) (c:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen311
+\Hy@linkcounter=\count342
+\Hy@pagecounter=\count343
+ (c:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count344
+ (c:/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count345
+ (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen312
+ (c:/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count346
+\Field@Width=\dimen313
+\Fld@charsize=\dimen314
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count347
+\c@Item=\count348
+\c@Hfootnote=\count349
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2026/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count350
+\c@bookmark@seq@number=\count351
+ (c:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip78
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2026/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (c:/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen315
+\pgfarrowlength=\dimen316
+\pgfarrowwidth=\dimen317
+\pgfarrowlinewidth=\dimen318
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box87
+\pgf@layerboxsaved@background=\box88
+) (c:/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
+(c:/texlive/2026/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2026/03/26 v1.1.0 Image filling library for TikZ
+ (c:/texlive/2026/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2026/03/26 v1.1.0 Image filling library
+\l__tikzfill_tmpa_dim=\dimen319
+\l__tikzfill_tmpb_dim=\dimen320
+\l__tikzfill_img_box=\box89
+)) (c:/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
+)) (c:/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.9.0'
+(c:/texlive/2026/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box90
+\tcb@totalupperbox=\box91
+\tcb@totallowerbox=\box92
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 55.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 94.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count352
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+Package babel Info: 'portuguese' activates 'portuges' shorthands.
+(babel)             Reported on input line 94.
+LaTeX Info: Redefining \microtypecontext on input line 94.
+Package microtype Info: Applying patch `item' on input line 94.
+Package microtype Info: Applying patch `toc' on input line 94.
+Package microtype Info: Applying patch `eqnum' on input line 94.
+Package microtype Info: Applying patch `footnote' on input line 94.
+Package microtype Info: Applying patch `verbatim' on input line 94.
+LaTeX Info: Redefining \microtypesetup on input line 94.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(c:/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(79.6678pt, 685.71124pt, 79.6678pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=685.71124pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-29.60219pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count353
+\scratchdimen=\dimen321
+\scratchbox=\box93
+\nofMPsegments=\count354
+\nofMParguments=\count355
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count356
+\MPscratchDim=\dimen322
+\MPnumerator=\count357
+\makeMPintoPDFobject=\count358
+\everyMPtoPDFconversion=\toks49
+) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count359
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 94.
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 111.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 111.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 111.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 111.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 111.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 111.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 111.
+ [1
+
+{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
+No file main.toc.
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.132 \newpage
+               [1
+
+]
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 142.
+(c:/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (10.8249pt too wide) in paragraph at lines 176--179
+[]\T1/lmr/m/n/12 (-20) Outro achado par-ti-cu-lar-mente grave foi a exis-ten-cia do fi-cheiro \T1/lmtt/m/n/12 HealthIT_passwords.xlsx
+ []
+
+[2
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 199.
+ (c:/texlive/2026/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[3{c:/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+Cap\'{\i }tulo 2.
+[4
+
+]
+Cap\'{\i }tulo 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T1/lmr/bx/n/10.95 (+20) Informacao
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 299--299
+[]|\T1/lmr/m/n/12 (+20) Aloja a BD
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) de pa-ci-en-tes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) com-pro-misso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) im-plica vi-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) la-cao le-gal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) ime-di-ata e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) perda do
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) con-trato hos-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T1/lmr/m/n/12 (+20) Credenciais
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) AD, in-for-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+1) do-cu-men-ta-cao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T1/lmr/m/n/12 (+20) Controlador
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) um com-pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) misso to-tal
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) a toda a in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) fra-es-tru-tura.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) cli-en-tes com
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T1/lmr/m/n/12 (+20) Credenciais
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) em ca-che,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) ses-soes AD,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) fi-chei-ros ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T1/lmr/m/n/12 (+20) Ponto de
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) en-trada para
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) mo-vi-mento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) acesso au-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) ten-ti-cado ao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) do-mi-nio e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) a par-ti-lhas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T1/lmr/m/n/12 (+20) Maquina
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) do au-di-tor,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) uti-li-zada ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) clu-si-va-mente
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) para tes-tes.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/lmr/m/n/12 (+20) da-dos da
+ []
+
+[5
+
+]
+Overfull \vbox (52.59782pt too high) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[6]
+Cap\'{\i }tulo 4.
+[7
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[8]
+Cap\'{\i }tulo 5.
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 386.
+<images/scan_inicial.png, id=82, 836.6038pt x 258.4438pt>
+File: images/scan_inicial.png Graphic file (type png)
+<use images/scan_inicial.png>
+Package pdftex.def Info: images/scan_inicial.png  used on input line 392.
+(pdftex.def)             Requested size: 441.01773pt x 136.2371pt.
+ [9
+
+ <./images/scan_inicial.png (PNG copy)>]
+<images/windows_scan.png, id=95, 1042.4162pt x 477.61043pt>
+File: images/windows_scan.png Graphic file (type png)
+<use images/windows_scan.png>
+Package pdftex.def Info: images/windows_scan.png  used on input line 411.
+(pdftex.def)             Requested size: 441.01773pt x 202.05984pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[10 <./images/windows_scan.png (PNG copy)>]
+<images/smblcient_enum.png, id=106, 743.12413pt x 293.00772pt>
+File: images/smblcient_enum.png Graphic file (type png)
+<use images/smblcient_enum.png>
+Package pdftex.def Info: images/smblcient_enum.png  used on input line 455.
+(pdftex.def)             Requested size: 441.01773pt x 173.89243pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[11 <./images/smblcient_enum.png (PNG copy)>]
+<images/smbclient_finance.png, id=116, 1341.70827pt x 293.79326pt>
+File: images/smbclient_finance.png Graphic file (type png)
+<use images/smbclient_finance.png>
+Package pdftex.def Info: images/smbclient_finance.png  used on input line 498.
+(pdftex.def)             Requested size: 441.01773pt x 96.56653pt.
+<images/healthIt_dados_finance.png, id=117, 1146.89348pt x 644.14565pt>
+File: images/healthIt_dados_finance.png Graphic file (type png)
+<use images/healthIt_dados_finance.png>
+Package pdftex.def Info: images/healthIt_dados_finance.png  used on input line 511.
+(pdftex.def)             Requested size: 441.01773pt x 247.69705pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[12 <./images/smbclient_finance.png (PNG copy)> <./images/healthIt_dados_finance.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[13]
+<images/HealthIT_passwords.png, id=138, 854.67131pt x 179.10391pt>
+File: images/HealthIT_passwords.png Graphic file (type png)
+<use images/HealthIT_passwords.png>
+Package pdftex.def Info: images/HealthIT_passwords.png  used on input line 529.
+(pdftex.def)             Requested size: 441.01773pt x 92.41855pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[14 <./images/HealthIT_passwords.png (PNG copy)>]
+<images/utilizadores_dominio.png, id=149, 1314.99979pt x 509.81772pt>
+File: images/utilizadores_dominio.png Graphic file (type png)
+<use images/utilizadores_dominio.png>
+Package pdftex.def Info: images/utilizadores_dominio.png  used on input line 569.
+(pdftex.def)             Requested size: 352.81552pt x 136.78134pt.
+<images/bloodhound_joao_admin.png, id=150, 1390.41196pt x 437.54771pt>
+File: images/bloodhound_joao_admin.png Graphic file (type png)
+<use images/bloodhound_joao_admin.png>
+Package pdftex.def Info: images/bloodhound_joao_admin.png  used on input line 578.
+(pdftex.def)             Requested size: 441.01773pt x 138.78297pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[15 <./images/utilizadores_dominio.png (PNG copy)> <./images/bloodhound_joao_admin.png (PNG copy)>]
+<images/smbpasswd_adminit.png, id=161, 456.40076pt x 119.4026pt>
+File: images/smbpasswd_adminit.png Graphic file (type png)
+<use images/smbpasswd_adminit.png>
+Package pdftex.def Info: images/smbpasswd_adminit.png  used on input line 630.
+(pdftex.def)             Requested size: 441.01773pt x 115.3831pt.
+<images/enum4linux_groups.png, id=162, 1365.1pt x 439.6425pt>
+File: images/enum4linux_groups.png Graphic file (type png)
+<use images/enum4linux_groups.png>
+Package pdftex.def Info: images/enum4linux_groups.png  used on input line 646.
+(pdftex.def)             Requested size: 441.01773pt x 142.03015pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[16 <./images/smbpasswd_adminit.png (PNG copy)>]
+<images/enum4linux_policy.png, id=182, 653.44125pt x 707.64375pt>
+File: images/enum4linux_policy.png Graphic file (type png)
+<use images/enum4linux_policy.png>
+Package pdftex.def Info: images/enum4linux_policy.png  used on input line 653.
+(pdftex.def)             Requested size: 441.01773pt x 477.59573pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[17 <./images/enum4linux_groups.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[18 <./images/enum4linux_policy.png (PNG copy)>]
+<images/enum4linux_users.png, id=194, 954.56625pt x 395.4775pt>
+File: images/enum4linux_users.png Graphic file (type png)
+<use images/enum4linux_users.png>
+Package pdftex.def Info: images/enum4linux_users.png  used on input line 681.
+(pdftex.def)             Requested size: 441.01773pt x 182.71237pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[19 <./images/enum4linux_users.png (PNG copy)>]
+<images/Nessus_windows_server.png, id=201, 1440.88312pt x 606.01407pt>
+File: images/Nessus_windows_server.png Graphic file (type png)
+<use images/Nessus_windows_server.png>
+Package pdftex.def Info: images/Nessus_windows_server.png  used on input line 694.
+(pdftex.def)             Requested size: 441.01773pt x 185.48593pt.
+<images/win_server_medium_streenght.png, id=203, 1318.9275pt x 554.07pt>
+File: images/win_server_medium_streenght.png Graphic file (type png)
+<use images/win_server_medium_streenght.png>
+Package pdftex.def Info: images/win_server_medium_streenght.png  used on input line 730.
+(pdftex.def)             Requested size: 441.01773pt x 185.27008pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[20 <./images/Nessus_windows_server.png>]
+<images/smb_nessus.png, id=212, 1304.62407pt x 536.0025pt>
+File: images/smb_nessus.png Graphic file (type png)
+<use images/smb_nessus.png>
+Package pdftex.def Info: images/smb_nessus.png  used on input line 737.
+(pdftex.def)             Requested size: 441.01773pt x 181.19156pt.
+<images/Win_Server_Terminal_Service.png, id=213, 1301.61281pt x 554.07pt>
+File: images/Win_Server_Terminal_Service.png Graphic file (type png)
+<use images/Win_Server_Terminal_Service.png>
+Package pdftex.def Info: images/Win_Server_Terminal_Service.png  used on input line 744.
+(pdftex.def)             Requested size: 441.01773pt x 187.73032pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[21 <./images/win_server_medium_streenght.png> <./images/smb_nessus.png> <./images/Win_server_Terminal_Service.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[22]
+<images/metasploit_smb_shares.png, id=228, 1424.32124pt x 393.72093pt>
+File: images/metasploit_smb_shares.png Graphic file (type png)
+<use images/metasploit_smb_shares.png>
+Package pdftex.def Info: images/metasploit_smb_shares.png  used on input line 781.
+(pdftex.def)             Requested size: 441.01773pt x 121.90804pt.
+<images/metasploit_enumusers.png, id=229, 941.01563pt x 250.68657pt>
+File: images/metasploit_enumusers.png Graphic file (type png)
+<use images/metasploit_enumusers.png>
+Package pdftex.def Info: images/metasploit_enumusers.png  used on input line 804.
+(pdftex.def)             Requested size: 441.01773pt x 117.48608pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[23 <./images/metasploit_smb_shares.png>]
+Overfull \hbox (2.99203pt too wide) in paragraph at lines 814--816
+[]\T1/lmr/m/n/12 (-20) Lista com-pleta de uti-li-za-do-res enu-me-rada sem pri-vi-le-gios: \T1/lmtt/m/n/12 Administrator, Guest,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[24 <./images/metasploit_enumusers.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[25]
+<images/ubuntu_scan.png, id=264, 1134.2375pt x 731.73375pt>
+File: images/ubuntu_scan.png Graphic file (type png)
+<use images/ubuntu_scan.png>
+Package pdftex.def Info: images/ubuntu_scan.png  used on input line 873.
+(pdftex.def)             Requested size: 441.01773pt x 284.51527pt.
+<images/webapp_inicial.png, id=265, 438.33327pt x 178.31837pt>
+File: images/webapp_inicial.png Graphic file (type png)
+<use images/webapp_inicial.png>
+Package pdftex.def Info: images/webapp_inicial.png  used on input line 904.
+(pdftex.def)             Requested size: 441.01773pt x 179.41716pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[26 <./images/ubuntu_scan.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[27 <./images/webapp_inicial.png (PNG copy)>]
+<images/sqli.png, id=284, 422.62239pt x 199.52805pt>
+File: images/sqli.png Graphic file (type png)
+<use images/sqli.png>
+Package pdftex.def Info: images/sqli.png  used on input line 921.
+(pdftex.def)             Requested size: 441.01773pt x 208.22581pt.
+<images/sqlmap_dbs.png, id=285, 1573.88pt x 473.77pt>
+File: images/sqlmap_dbs.png Graphic file (type png)
+<use images/sqlmap_dbs.png>
+Package pdftex.def Info: images/sqlmap_dbs.png  used on input line 943.
+(pdftex.def)             Requested size: 441.01773pt x 132.74867pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[28 <./images/sqli.png (PNG copy)>]
+<images/sqlmap_dump.png, id=299, 831.105pt x 279.0425pt>
+File: images/sqlmap_dump.png Graphic file (type png)
+<use images/sqlmap_dump.png>
+Package pdftex.def Info: images/sqlmap_dump.png  used on input line 950.
+(pdftex.def)             Requested size: 441.01773pt x 148.07063pt.
+<images/xss.png, id=300, 1444.39626pt x 660.4675pt>
+File: images/xss.png Graphic file (type png)
+<use images/xss.png>
+Package pdftex.def Info: images/xss.png  used on input line 967.
+(pdftex.def)             Requested size: 441.01773pt x 201.65897pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[29 <./images/sqlmap_dbs.png (PNG copy)> <./images/sqlmap_dump.png (PNG copy)>]
+<images/nuclei_ubuntu.png, id=310, 861.7412pt x 490.96468pt>
+File: images/nuclei_ubuntu.png Graphic file (type png)
+<use images/nuclei_ubuntu.png>
+Package pdftex.def Info: images/nuclei_ubuntu.png  used on input line 984.
+(pdftex.def)             Requested size: 441.01773pt x 251.26517pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[30 <./images/xss.png (PNG copy)> <./images/nuclei_ubuntu.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[31]
+<images/Nessus_ubuntu.png, id=326, 1441.63594pt x 555.57562pt>
+File: images/Nessus_ubuntu.png Graphic file (type png)
+<use images/Nessus_ubuntu.png>
+Package pdftex.def Info: images/Nessus_ubuntu.png  used on input line 1018.
+(pdftex.def)             Requested size: 441.01773pt x 169.95471pt.
+<images/Ubuntu_web_dir.png, id=327, 1315.16344pt x 537.50812pt>
+File: images/Ubuntu_web_dir.png Graphic file (type png)
+<use images/Ubuntu_web_dir.png>
+Package pdftex.def Info: images/Ubuntu_web_dir.png  used on input line 1044.
+(pdftex.def)             Requested size: 441.01773pt x 180.24062pt.
+<images/Ubuntu_sql_dump.png, id=328, 1316.66907pt x 430.60875pt>
+File: images/Ubuntu_sql_dump.png Graphic file (type png)
+<use images/Ubuntu_sql_dump.png>
+Package pdftex.def Info: images/Ubuntu_sql_dump.png  used on input line 1051.
+(pdftex.def)             Requested size: 441.01773pt x 144.23018pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[32 <./images/Nessus_ubuntu.png> <./images/Ubuntu_web_dir.png>]
+<images/dump_sql_1.png, id=339, 1442.38875pt x 637.63219pt>
+File: images/dump_sql_1.png Graphic file (type png)
+<use images/dump_sql_1.png>
+Package pdftex.def Info: images/dump_sql_1.png  used on input line 1065.
+(pdftex.def)             Requested size: 441.01773pt x 194.95914pt.
+<images/dump_sql_2.png, id=340, 633.11531pt x 456.20438pt>
+File: images/dump_sql_2.png Graphic file (type png)
+<use images/dump_sql_2.png>
+Package pdftex.def Info: images/dump_sql_2.png  used on input line 1072.
+(pdftex.def)             Requested size: 441.01773pt x 317.78854pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[33 <./images/Ubuntu_sql_dump.png> <./images/dump_sql_1.png>]
+<images/Ubuntu_clickjacking.png, id=352, 1321.18594pt x 452.4403pt>
+File: images/Ubuntu_clickjacking.png Graphic file (type png)
+<use images/Ubuntu_clickjacking.png>
+Package pdftex.def Info: images/Ubuntu_clickjacking.png  used on input line 1088.
+(pdftex.def)             Requested size: 441.01773pt x 151.02478pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[34 <./images/dump_sql_2.png> <./images/Ubuntu_clickjacking.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[35]
+<images/metasploit_version.png, id=365, 1108.14pt x 137.7647pt>
+File: images/metasploit_version.png Graphic file (type png)
+<use images/metasploit_version.png>
+Package pdftex.def Info: images/metasploit_version.png  used on input line 1108.
+(pdftex.def)             Requested size: 441.01773pt x 54.82741pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[36 <./images/metasploit_version.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[37]
+<images/win10_scan.png, id=384, 765.90489pt x 295.36435pt>
+File: images/win10_scan.png Graphic file (type png)
+<use images/win10_scan.png>
+Package pdftex.def Info: images/win10_scan.png  used on input line 1169.
+(pdftex.def)             Requested size: 441.01773pt x 170.07654pt.
+<images/labtest_user.png, id=385, 482.3237pt x 348.78131pt>
+File: images/labtest_user.png Graphic file (type png)
+<use images/labtest_user.png>
+Package pdftex.def Info: images/labtest_user.png  used on input line 1196.
+(pdftex.def)             Requested size: 441.01773pt x 318.91357pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[38 <./images/win10_scan.png (PNG copy)>]
+<images/whoami_adminit.png, id=397, 792.61337pt x 542.81055pt>
+File: images/whoami_adminit.png Graphic file (type png)
+<use images/whoami_adminit.png>
+Package pdftex.def Info: images/whoami_adminit.png  used on input line 1211.
+(pdftex.def)             Requested size: 441.01773pt x 302.02542pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[39 <./images/labtest_user.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[40 <./images/whoami_adminit.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[41]
+<images/wireshark_http.png, id=416, 1270.7475pt x 758.835pt>
+File: images/wireshark_http.png Graphic file (type png)
+<use images/wireshark_http.png>
+Package pdftex.def Info: images/wireshark_http.png  used on input line 1254.
+(pdftex.def)             Requested size: 441.01773pt x 263.36151pt.
+<images/wireshark_smb.png, id=417, 1573.88pt x 699.61375pt>
+File: images/wireshark_smb.png Graphic file (type png)
+<use images/wireshark_smb.png>
+Package pdftex.def Info: images/wireshark_smb.png  used on input line 1266.
+(pdftex.def)             Requested size: 441.01773pt x 196.02928pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[42 <./images/wireshark_http.png (PNG copy)> <./images/wireshark_smb.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[43]
+Cap\'{\i }tulo 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 1297.
+
+LaTeX Warning: Reference `fig:smbclient_enum' on page 44 undefined on input line 1339.
+
+
+LaTeX Warning: Reference `fig:metasploit_shares' on page 44 undefined on input line 1339.
+
+[44
+
+{c:/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[45]
+
+LaTeX Warning: Reference `fig:passwords_xlsx' on page 46 undefined on input line 1376.
+
+
+LaTeX Warning: Reference `fig:sqli' on page 46 undefined on input line 1412.
+
+
+LaTeX Warning: Reference `fig:sqlmap_dump' on page 46 undefined on input line 1413.
+
+
+LaTeX Warning: Reference `fig:nessus_ubuntu_sql' on page 46 undefined on input line 1414.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[46]
+
+LaTeX Warning: Reference `fig:dados_financeiros' on page 47 undefined on input line 1450.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[47]
+
+LaTeX Warning: Reference `fig:enum4linux_policy' on page 48 undefined on input line 1485.
+
+
+LaTeX Warning: Reference `fig:metasploit_enumusers' on page 48 undefined on input line 1485.
+
+
+LaTeX Warning: Reference `fig:xss' on page 48 undefined on input line 1517.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[48]
+
+LaTeX Warning: Reference `fig:wireshark_http' on page 49 undefined on input line 1550.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[49]
+
+LaTeX Warning: Reference `fig:labtest' on page 50 undefined on input line 1582.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1583
+[]\T1/lmtt/m/n/12 net user Labtest \T1/lmr/m/n/12 (+20) re-ve-lou \T1/lmtt/m/n/12 Password required: No \T1/lmr/m/n/12 (+20) e \T1/lmtt/m/n/12 Local Group
+ []
+
+
+LaTeX Warning: Reference `fig:scan_inicial' on page 50 undefined on input line 1614.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[50]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[51]
+Cap\'{\i }tulo 7.
+
+Underfull \hbox (badness 1205) in paragraph at lines 1692--1692
+[]|\T1/lmr/m/n/12 (+20) Ficheiro de pas-swords em
+ []
+
+[52
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[53]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[54]
+Cap\'{\i }tulo 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
+[]|\T1/lmr/m/n/12 (+20) Eliminar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1779--1779
+\T1/lmtt/m/n/12 HealthIT_passwords.xlsx \T1/lmr/m/n/12 (+20) da
+ []
+
+[55
+
+]
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1826: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1826   {Ubuntu Server 22.04\\{
+                                \footnotesize\normalfont 192.168.10.30}\\{\f...
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1826: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1826 ...ootnotesize\normalfont 192.168.10.30}\\{
+                                                  \footnotesize\normalfont W...
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Missing } inserted.
+<inserted text> 
+                }
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Undefined control sequence.
+<recently read> \tikz@expand@last@token@ 
+                                         
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Extra }, or forgotten \endgroup.
+\tikz@temp ...lor=TextGray]{SQL apenas\\localhost}
+                                                  
+l.1832 ...r=TextGray]{SQL apenas\\localhost} (fw2)
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1832: Undefined control sequence.
+\pgfutil@next ...flinewidth =\tikzscope@linewidth 
+                                                  \tikz@path@do@at@end 
+l.1832 ...=TextGray]{SQL apenas\\localhost} (fw2);
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1833: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.1833 \node
+            [box,fill=ServerColor,draw=ServerColor!70!black] (winserver) at ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1833: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.1833 \node
+            [box,fill=ServerColor,draw=ServerColor!70!black] (winserver) at ...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
+<inserted text> 
+                }
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Package tikz Error: Giving up on this path. Did you forget a semicolon?.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+(That was another \errmessage.)
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Undefined control sequence.
+<recently read> \tikz@expand@last@token@ 
+                                         
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.1834   {Windows Server 2019\\{
+                                \footnotesize\normalfont 192.168.20.20}\\{\f...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: LaTeX Error: Not allowed in LR mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
+<inserted text> 
+                }
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Missing } inserted.
+<inserted text> 
+                }
+l.1834 ...ootnotesize\normalfont 192.168.20.20}\\{
+                                                  \footnotesize\normalfont A...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1834: Extra }, or forgotten \endgroup.
+l.1834 ...footnotesize\normalfont AD + Ficheiros}}
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1835: Undefined control sequence.
+l.1835 \node
+            [box,fill=UserColor,draw=UserColor!70!black] (win10) at (3.2,-8.0)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1837: LaTeX Error: Environment scope undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1837 \begin{scope}
+                    [on background layer]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1838: Undefined control sequence.
+l.1838   \node
+              [zone,fit=(winserver),label=above:{\footnotesize\color{gray}Zo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1839: Undefined control sequence.
+l.1839   \node
+              [zone,fit=(win10),label=above:{\footnotesize\color{gray}Zona U...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1840: LaTeX Error: \begin{tikzpicture} on input line 1813 ended by \end{scope}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1840 \end{scope}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1841: Undefined control sequence.
+l.1841 \draw
+            [arrow] (fw2) -- (winserver);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1842: Undefined control sequence.
+l.1842 \draw
+            [arrow] (fw2) -- (win10);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1843: Undefined control sequence.
+l.1843 \draw
+            [dashed,color=gray,thick] (winserver.east) --
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1845: Undefined control sequence.
+l.1845 \node
+            [font=\footnotesize,color=TextGray,align=left] at (6.2,-5.0) {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1848: Package pgfkeys Error: I do not know the key '/tikz/box' and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1848 ...minimum height=0.5cm,font=\footnotesize]
+                                                  {}; DMZ\\[4pt]
+(That was another \errmessage.)
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1850: Package pgfkeys Error: I do not know the key '/tikz/box' and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1850 ...minimum height=0.5cm,font=\footnotesize]
+                                                  {}; Servidores\\[4pt]
+(That was another \errmessage.)
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1852: Package pgfkeys Error: I do not know the key '/tikz/box' and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1852 ...minimum height=0.5cm,font=\footnotesize]
+                                                  {}; Utilizadores\\[4pt]
+(That was another \errmessage.)
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1853: Package pgfkeys Error: I do not know the key '/tikz/fw' and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1853 ...minimum height=0.5cm,font=\footnotesize]
+                                                  {}; Firewall};
+(That was another \errmessage.)
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Undefined control sequence.
+\endtikzpicture ...r@layerlist@globally \endscope 
+                                                  \let \pgf@baseline =\pgf@s...
+l.1854 \end{tikzpicture}
+                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Extra }, or forgotten \endgroup.
+\endpgfpicture ...globally \endgroup \hss \egroup 
+                                                  \pgf@restore@layerlist@fro...
+l.1854 \end{tikzpicture}
+                        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Missing } inserted.
+<inserted text> 
+                }
+l.1854 \end{tikzpicture}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Infinite glue shrinkage found in a paragraph.
+<argument> ...hskip:D \c_zero_dim \fi: \tex_par:D 
+                                                  \hook_use:n {para/after}\@...
+l.1854 \end{tikzpicture}
+                        
+The paragraph just ended includes some glue that has
+infinite shrinkability, e.g., `\hskip 0pt minus 1fil'.
+Such glue doesn't belong there---it allows a paragraph
+of any length to fit on one line. But it's safe to proceed,
+since the offensive shrinkability has been made finite.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Extra \endgroup.
+\endtikzpicture ...lobal \endpgfpicture \endgroup 
+                                                  
+l.1854 \end{tikzpicture}
+                        
+Things are pretty mixed up, but I think the worst is over.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: LaTeX Error: \begin{document} ended by \end{tikzpicture}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1854 \end{tikzpicture}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1854: Extra \endgroup.
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.1854 \end{tikzpicture}
+                        
+Things are pretty mixed up, but I think the worst is over.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1855: Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1855 \caption
+               {Proposta de arquitetura de rede segmentada}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.1857 \end{figure}
+                   
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Extra \endgroup.
+\color@endgroup ->\endgraf \@endpefalse \endgroup 
+                                                  
+l.1857 \end{figure}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.1857 \end{figure}
+                   
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1857 \end{figure}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/halll/Desktop/Faculdade/AI-Report/main.tex:1857: Extra \endgroup.
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.1857 \end{figure}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[56]
+Cap\'{\i }tulo 9.
+[57
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[58]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[59]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[60]
+Cap\'{\i }tulo 10.
+[61
+
+]
+Ap\^endice A.
+[62
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.99998pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.99998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.99998pt}.
+
+[63] (./main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  57EBDA181D30CD44C7055F57AEDD4AA3;12598.
+ ) 
+Here is how much of TeX's memory you used:
+ 33235 strings out of 467349
+ 646651 string characters out of 5419863
+ 1341770 words of memory out of 5000000
+ 61317 multiletter control sequences out of 15000+600000
+ 704244 words of font info for 196 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 98i,13n,108p,1236b,1317s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtk10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
+Output written on main.pdf (64 pages, 7983431 bytes).
+PDF statistics:
+ 682 PDF objects out of 1000 (max. 8388607)
+ 534 compressed objects within 6 object streams
+ 283 named destinations out of 1000 (max. 500000)
+ 45766 words of extra memory for PDF output out of 51595 (max. 10000000)
+
